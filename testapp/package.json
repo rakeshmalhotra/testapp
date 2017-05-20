@@ -1,0 +1,20 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "web",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exam"
+  ],
+  "author": "Rakesh",
+  "license": "MIT",
+  "engines": {
+    "node": "4.1.1"
+  },
+  "dependencies" :
+    { "express" : "1.0.0 - 2.9999.9999"
+  }
+}
